@@ -1,3 +1,3 @@
-![example workflow](https://github.com/Frizbby/maven_training/src/main/java/fr/lernejo/Sample.java/coverage.svg)
+[![codecov.io Code Coverage](https://github.com/Frizbby/maven_training/.github/workflows/build.yml/badge.svg)
 
 # maven_training
